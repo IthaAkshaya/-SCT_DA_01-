@@ -1,27 +1,22 @@
-# -SCT_DA_01-
-# Excel Sales Dashboard
+# SCT_DA_01 – Excel Dashboard
 
 ## Project Overview
-This project is an Excel dashboard created using the Superstore dataset.  
-It uses PivotTables, Charts, and Conditional Formatting to analyze sales and profit.
+This is an Excel dashboard using the Superstore dataset.  
+It shows sales and profit with PivotTables, Charts, and Conditional Formatting.
 
-## Features
-- Total Sales by Category (Column Chart)
-- Profit Distribution (Pie Chart)
-- Monthly Sales Trend (Line Chart)
-- Conditional Formatting to highlight high and low performers
+## Dashboard Preview
+### Sales and Profit
+![Sales and Profit](salesandprofit.png)
+
+### Monthly Sales Trend
+![Monthly Sales](salesmonthly.png)
+
+## Files
+- Superstore_Dashboard.xlsx → Excel dashboard
+- README.md → Project notes
+- Screenshots → Dashboard visuals
 
 ## Insights
 - Technology has the highest sales and profit.
 - Office Supplies is the lowest performer.
 - Sales peak in February and August, dip in July.
-
-## Files
-- `Superstore_Dashboard.xlsx` → Excel dashboard
-- `README.md` → Project notes
-
-## How to Use
-1. Download the Excel file.
-2. Open in Microsoft Excel or Google Sheets.
-3. View the Dashboard sheet for charts.
-4. Check the cal sheet for PivotTables with conditional formatting.
