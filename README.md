@@ -20,3 +20,5 @@ It shows sales and profit with PivotTables, Charts, and Conditional Formatting.
 - Technology has the highest sales and profit.
 - Office Supplies is the lowest performer.
 - Sales peak in February and August, dip in July.
+## Conclusion
+This dashboard makes it easy to see sales and profit trends, helping identify top categories and monthly patterns.
